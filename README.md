@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Mert-Dev05/Mert-Dev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mertalp, a collage student at GTU.
 
-Here are some ideas to get you started:
+I design and develop the random sparks of inspiration that hit me at any moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing two custom HID devices, one hardware level app and one video game.
+
+I’m currently working on Learning new languages, building hardware level apps, making video games, building custom HID devices and more.
+
+I’m currently learning Rust ,Java,C , C++, Unity, Godot, Blender, AutoDesk Fusion 360
+
+- ⚡ Fun facts:
+- No favorite coffee, can drink any kind.
+- Got a huge book where I write all my ideas and plans.
