@@ -10,6 +10,6 @@ I’m currently working on Learning new languages, building hardware level apps,
 
 I’m currently learning Rust ,Java,C , C++, Unity, Godot, Blender, AutoDesk Fusion 360
 
-- ⚡ Fun facts:
+* ⚡ Fun facts:
 - No favorite coffee, can drink any kind.
 - Got a huge book where I write all my ideas and plans.
