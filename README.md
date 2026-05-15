@@ -8,7 +8,7 @@ I'm currently developing two custom HID devices, one hardware level app and one 
 
 I’m currently working on learning new languages, building hardware level apps, making video games, building custom HID devices and more.
 
-I’m currently learning Rust ,Java ,C , C++, Unity, Godot, Blender, AutoDesk Fusion 360
+I’m currently learning Rust ,Java ,C , C++, Assembly(ARM M3, RISC-V), Unity, Godot, Blender, AutoDesk Fusion 360
 
 ⚡ Fun facts:
 - No favorite coffee, can drink any kind.
